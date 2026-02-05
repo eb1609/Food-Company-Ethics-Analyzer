@@ -2,6 +2,9 @@
 This project analyzes food companies input by the user and evaluates their ethical behavior using an automated scoring system built from news coverage. Articles are sourced from The Guardian and processed using natural language techniques to assess how frequently companies are committing ethical or unethical actions.
 The goal is to demonstrate how unstructured and overwhelming news data can be transformed into quantitative insights using data engineering, sentiment analysis, and scoring models.
 
+## Live Website
+https://food-company-ethics-analyzer.streamlit.app
+
 ## Project Overview
 Food companies regularly face scrutiny over labor practices and consumer safety. My project created an ethics score for each company through:
 - Collecting relevant news articles from The Guardian
